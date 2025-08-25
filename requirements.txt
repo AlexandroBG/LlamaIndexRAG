@@ -1,0 +1,8 @@
+google-generativeai
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-huggingface
+sentence-transformers
+pypdf
+python-dotenv
+requests
